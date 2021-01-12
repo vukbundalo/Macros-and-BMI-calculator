@@ -3,7 +3,7 @@
 
 # Macros and BMI Calculator 💪
 
-![Finished App](https://github.com/vukbundalo/Images/MacrosBMICalculator.gif
+![Finished App](https://github.com/vukbundalo/Images/blob/main/MacrosBMICalculator.gif)
 ## What I learned while building this app
 
 - How to use Flutter themes to create coherent branding. 
